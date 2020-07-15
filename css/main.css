@@ -19,13 +19,9 @@ body {
     margin: auto;
 }
 
-p {
-    font-family: 'Nothing You Could Do', cursive;
-    text-align: center;
-}
 
 .container {
-    margin: 12% 0%;
+    margin: 20% 0%;
     width: 100%;
     text-align: center;
 }
@@ -39,8 +35,10 @@ p {
 }
 
 .About_Me {
-    padding: 0% 20%;
-    font-size: 1rem;
+    background-color: white;
+    margin: 30% 20%;
+    padding: 2% 2%;
+    font-size: 1.2rem;
     font-family: 'DM Mono', monospace;
     font-family: 'Nothing You Could Do', cursive;
     line-height: 150%;
