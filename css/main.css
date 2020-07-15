@@ -25,42 +25,40 @@ p {
 }
 
 .container {
-    margin: 10% 0%;
+    margin: 12% 0%;
     width: 100%;
     text-align: center;
 }
 
 .blurb {
+    font-family: 'Press Start 2P', cursive;
     font-family: 'Nothing You Could Do', cursive;
     text-align: center;
     font-size: 1.5rem; 
     color: white;
-    /*
-    border: white solid;
-    */
 }
 
 .About_Me {
     padding: 0% 20%;
-    font-size: 1.3rem;
+    font-size: 1rem;
+    font-family: 'DM Mono', monospace;
+    font-family: 'Nothing You Could Do', cursive;
+    line-height: 150%;
+    letter-spacing: 0.1rem;
 }
-
-img {
-    padding-top: 5%;
-}
-
 
 .socials {
     display: flex;
     padding: 0% 25%;
     color: black;
-    /*
-    border: white solid;
-    */
+    margin-top: 2%;
 }
 
 .Github, .Linkedin, .CV, .Email {
     flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     color: black;
     background-color: white;
     width: 10%;
