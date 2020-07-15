@@ -36,6 +36,10 @@ p {
     color: white;
 }
 
+.About_Me {
+    padding: 0% 20%;
+}
+
 .socials {
     display: flex;
     padding: 0% 25%;
