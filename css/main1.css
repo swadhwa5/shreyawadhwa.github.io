@@ -14,10 +14,21 @@ body {
     color: white;
 }
 
+.About_Me{
+    font-family: 'DM Mono', monospace;
+    font-family: 'Nothing You Could Do', cursive;
+    line-height: 150%;
+    letter-spacing: 0.1rem;
+    opacity: 75%;
+}
 a {
     text-decoration: none;
 }
 
 a:visited {
     text-decoration: none;
+}
+
+.Github, .Linkedin, .Email {
+    width: 10%;
 }
