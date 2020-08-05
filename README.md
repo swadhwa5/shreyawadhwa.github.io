@@ -1,2 +1,2 @@
-# swadhwa5.github.io
+# shreyawadhwa.github.io
 Personal Website
