@@ -3,21 +3,24 @@ body {
     background-color: #93CAB6;
     font-family: 'Source Code Pro', monospace;
 }
-  
-.part-1 {
-    padding: 20% 0%;
+
+.home {
+    padding: 10% 0%;
 
 }
 
-.About_Me{
+.about-me{
     opacity: 75%;
     line-height: 150%;
+    margin-bottom: 10%;
 }
 
-.About_Me_Content {
+
+.about-me-content {
     font-family: 'Montserrat', sans-serif;
     line-height: 150%;
 }
+
 
 a {
     text-decoration: none;
